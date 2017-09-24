@@ -2,7 +2,7 @@ node {
 
     stage 'Build'
 
-    git url: 'https://github.com/jfrogdev/project-examples.git'
+    git url: 'https://github.com/jenkins/Artifactory.git'
 
 
 
